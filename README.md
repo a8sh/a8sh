@@ -25,6 +25,7 @@ My journey through the digital realm has led me to become proficient in a range 
 - Shadcn
 - RadixUI
 - Zustand
+- C++
 
 
 
