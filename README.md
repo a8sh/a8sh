@@ -2,9 +2,7 @@
   <img src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif" width="700" height="auto"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="450"/>
-</div>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Akshansh+Dixit%2C+An+aspiring+dev💻+;++++++)
 
