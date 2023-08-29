@@ -38,7 +38,7 @@ See how I've been contributing to the open-source world and honing my skills:
 ## GitHub Streak:
 Consistency is key! Check out my GitHub streak:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Drakkarrr&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a8sh&theme=soft-green&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Let's Connect:
 I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out:
