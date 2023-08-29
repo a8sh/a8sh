@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="700" height="auto"/>
+  <img src="https://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="700" height="auto"/>
 </div>
 
 <div align="center">
@@ -45,4 +45,4 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and collab
 
 - GitHub: [Akshansh](https://github.com/a8sh)
 - Email: akshanshd46@gmail.com
-- LinkedIn: [Akshansh Dixit]([https://www.linkedin.com/in/junreylañas/](https://www.linkedin.com/in/akshansh-dixit-215696210/)https://www.linkedin.com/in/akshansh-dixit-215696210/)
+- LinkedIn: [Akshansh Dixit](https://www.linkedin.com/in/akshansh-dixit-215696210/)
