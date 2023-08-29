@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="450"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Junrey+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=57&duration=1800&color=00DB4D&multiline=true&width=1200&height=150&lines=Welcome+Visitor!;I'm+Akshansh+La%C3%B1as%2C+An+aspiring+dev💻+;++++++)
 
 ## About Me:
 Hello there! I'm Akshansh Dixit, FullStack Developer from INDIA. With an insatiable curiosity for technology and a passion for turning lines of code into impactful solutions, I've embarked on an exciting journey into the world of software development.
